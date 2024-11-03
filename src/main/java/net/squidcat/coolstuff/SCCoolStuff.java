@@ -1,5 +1,9 @@
 package net.squidcat.coolstuff;
 
+import net.minecraft.world.item.CreativeModeTabs;
+import net.squidcat.coolstuff.block.ModBlocks;
+import net.squidcat.coolstuff.item.ModCreativeModeTabs;
+import net.squidcat.coolstuff.item.ModItems;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
@@ -31,6 +35,11 @@ public class SCCoolStuff
 
         NeoForge.EVENT_BUS.register(this);
 
+        ModCreativeModeTabs.register(modEventBus);
+        ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
+
+
         modEventBus.addListener(this::addCreative);
 
         modContainer.registerConfig(ModConfig.Type.COMMON,Config.SPEC);
@@ -44,7 +53,9 @@ public class SCCoolStuff
     }
     private void addCreative(BuildCreativeModeTabContentsEvent event)
     {
+        if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
 
+        }
     }
     @SubscribeEvent
     public void onServerStarting(ServerStartingEvent event)
