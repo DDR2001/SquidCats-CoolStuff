@@ -5,5 +5,22 @@
   "item.sccoolstuff.daytona_card": "Hi I'm Daytona Card",
   "block.sccoolstuff.charcoal_brick_block": "Charcoal Bricks",
   "block.sccoolstuff.carved_charcoal_brick_block": "Carved Charcoal Bricks",
-  "creativetab.sccoolstuff.sccs_items": "SquidCat's Cool Stuff"
+  "creativetab.sccoolstuff.sccs_items": "SquidCat's Cool Stuff",
+  "block.sccoolstuff.paper_block": "Paper Block",
+  "block.sccoolstuff.light_gray_paper_block": "Light Gray Paper Block",
+  "block.sccoolstuff.gray_paper_block": "Gray Paper Block",
+  "block.sccoolstuff.black_paper_block": "Black Paper Block",
+  "block.sccoolstuff.red_paper_block": "Red Paper Block",
+  "block.sccoolstuff.orange_paper_block": "Orange Paper Block",
+  "block.sccoolstuff.yellow_paper_block": "Yellow Paper Block",
+  "block.sccoolstuff.lime_paper_block": "Lime Paper Block",
+  "block.sccoolstuff.green_paper_block": "Green Paper Block",
+  "block.sccoolstuff.light_blue_paper_block": "Light Blue Paper Block",
+  "block.sccoolstuff.cyan_paper_block": "Cyan Paper Block",
+  "block.sccoolstuff.blue_paper_block": "Blue Paper Block",
+  "block.sccoolstuff.purple_paper_block": "Purple Paper Block",
+  "block.sccoolstuff.magenta_paper_block": "Magenta Paper Block",
+  "block.sccoolstuff.pink_paper_block": "Pink Paper Block",
+  "block.sccoolstuff.brown_paper_block": "Brown Paper Block"
+
 }

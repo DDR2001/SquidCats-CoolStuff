@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+      "sccoolstuff:paper_block",
+    "sccoolstuff:orange_paper_block",
+    "sccoolstuff:magenta_paper_block",
+    "sccoolstuff:light_blue_paper_block",
+    "sccoolstuff:cyan_paper_block",
+    "sccoolstuff:pink_paper_block",
+    "sccoolstuff:blue_paper_block",
+    "sccoolstuff:purple_paper_block",
+    "sccoolstuff:yellow_paper_block",
+    "sccoolstuff:lime_paper_block",
+    "sccoolstuff:green_paper_block",
+    "sccoolstuff:brown_paper_block",
+    "sccoolstuff:gray_paper_block",
+    "sccoolstuff:light_gray_paper_block",
+    "sccoolstuff:red_paper_block",
+    "sccoolstuff:black_paper_block"
+
+  ]
+
+}
