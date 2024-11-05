@@ -24,6 +24,23 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.CHARCOAL_BLOCK);
                         output.accept(ModBlocks.CHARCOAL_BRICK_BLOCK);
                         output.accept(ModBlocks.CARVED_CHARCOAL_BRICK_BLOCK);
+                        output.accept(ModBlocks.PAPER_BLOCK);
+                        output.accept(ModBlocks.ORANGE_PAPER_BLOCK);
+                        output.accept(ModBlocks.MAGENTA_PAPER_BLOCK);
+                        output.accept(ModBlocks.LIGHT_BLUE_PAPER_BLOCK);
+                        output.accept(ModBlocks.YELLOW_PAPER_BLOCK);
+                        output.accept(ModBlocks.LIME_PAPER_BLOCK);
+                        output.accept(ModBlocks.PINK_PAPER_BLOCK);
+                        output.accept(ModBlocks.GRAY_PAPER_BLOCK);
+                        output.accept(ModBlocks.LIGHT_GRAY_PAPER_BLOCK);
+                        output.accept(ModBlocks.CYAN_PAPER_BLOCK);
+                        output.accept(ModBlocks.PURPLE_PAPER_BLOCK);
+                        output.accept(ModBlocks.BLUE_PAPER_BLOCK);
+                        output.accept(ModBlocks.BROWN_PAPER_BLOCK);
+                        output.accept(ModBlocks.GREEN_PAPER_BLOCK);
+                        output.accept(ModBlocks.RED_PAPER_BLOCK);
+                        output.accept(ModBlocks.BLACK_PAPER_BLOCK);
+
 
 
 

@@ -1,0 +1,63 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      {
+        "item": "sccoolstuff:paper_block"
+      },
+      {
+        "item": "sccoolstuff:orange_paper_block"
+      },
+      {
+        "item": "sccoolstuff:magenta_paper_block"
+      },
+      {
+        "item": "sccoolstuff:yellow_paper_block"
+      },
+      {
+        "item": "sccoolstuff:light_blue_paper_block"
+      },
+      {
+        "item": "sccoolstuff:light_gray_paper_block"
+      },
+      {
+        "item": "sccoolstuff:gray_paper_block"
+      },
+      {
+        "item": "sccoolstuff:cyan_paper_block"
+      },
+      {
+        "item": "sccoolstuff:pink_paper_block"
+      },
+      {
+        "item": "sccoolstuff:blue_paper_block"
+      },
+      {
+        "item": "sccoolstuff:lime_paper_block"
+      },
+      {
+        "item": "sccoolstuff:green_paper_block"
+      },
+      {
+        "item": "sccoolstuff:purple_paper_block"
+      },
+      {
+        "item": "sccoolstuff:brown_paper_block"
+      },
+      {
+        "item": "sccoolstuff:red_paper_block"
+      },
+      {
+        "item": "sccoolstuff:black_paper_block"
+      }
+    ],
+    {
+      "item": "minecraft:cyan_dye"
+    }
+  ],
+  "result": {
+    "id": "sccoolstuff:cyan_paper_block",
+    "count": 1
+  }
+}

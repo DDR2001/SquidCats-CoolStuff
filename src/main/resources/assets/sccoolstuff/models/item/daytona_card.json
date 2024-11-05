@@ -3,7 +3,6 @@
 	"textures": {
 		"0": "sccoolstuff:item/anotyadmiih",
 		"1": "sccoolstuff:item/hiimdaytona"
-
 	},
 	"elements": [
 		{
@@ -25,6 +24,7 @@
 			"scale": [0.48, 0.48, 0.48]
 		},
 		"thirdperson_lefthand": {
+			"rotation": [0, 180, 0],
 			"translation": [0, 3.5, 0],
 			"scale": [0.52, 0.52, 0.52]
 		},
@@ -38,8 +38,13 @@
 			"translation": [0, 5.75, 0],
 			"scale": [0.57, 0.57, 0.57]
 		},
+		"ground": {
+			"translation": [0, 3.5, 2],
+			"scale": [0.6, 0.6, 0.6]
+		},
 		"gui": {
-			"translation": [0, 4, 0]
+			"translation": [0.25, 4, 1],
+			"scale": [1.2, 1.2, 1.2]
 		},
 		"head": {
 			"rotation": [0, 180, 0],
@@ -47,7 +52,8 @@
 		},
 		"fixed": {
 			"rotation": [0, 180, 0],
-			"translation": [0, 4.25, 0]
+			"translation": [0, 5.5, -1.5],
+			"scale": [1.38, 1.38, 1.38]
 		}
 	}
 }
