@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "sccoolstuff:charcoal_block",
+    "sccoolstuff:charcoal_brick_block",
+    "sccoolstuff:carved_charcoal_brick_block"
+  ]
+
+}

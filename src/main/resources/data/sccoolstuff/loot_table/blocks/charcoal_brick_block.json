@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "sccoolstuff:charcoal_brick_block"
+
+        }
+      ]
+    }
+  ],
+  "random_sequence": "sccoolstuff:blocks/charcoal_brick_block"
+}

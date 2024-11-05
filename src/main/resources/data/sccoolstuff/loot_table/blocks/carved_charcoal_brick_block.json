@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "sccoolstuff:carved_charcoal_brick_block",
+          "conditions": [
+            {
+              "condition": "minecraft:match_tool"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "random_sequence": "sccoolstuff:blocks/carved_charcoal_brick_block"
+}
