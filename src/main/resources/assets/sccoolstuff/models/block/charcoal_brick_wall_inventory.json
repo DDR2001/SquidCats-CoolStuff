@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "sccoolstuff:block/charcoal_brick_block"
+  }
+}

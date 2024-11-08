@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "X",
+    "X"
+  ],
+  "key": {
+    "X": {
+      "item": "sccoolstuff:charcoal_brick_slab"
+    }
+  },
+  "result": {
+    "id": "sccoolstuff:carved_charcoal_brick_block",
+    "count":  1
+  }
+}

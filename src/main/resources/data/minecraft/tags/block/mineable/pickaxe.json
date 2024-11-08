@@ -3,7 +3,9 @@
   "values": [
     "sccoolstuff:charcoal_block",
     "sccoolstuff:charcoal_brick_block",
-    "sccoolstuff:carved_charcoal_brick_block"
+    "sccoolstuff:carved_charcoal_brick_block",
+    "sccoolstuff:charcoal_brick_slab",
+    "sccoolstuff:charcoal_pillar_block"
   ]
 
 }

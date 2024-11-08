@@ -19,11 +19,13 @@ public class ModCreativeModeTabs {
             () -> CreativeModeTab.builder().icon(()-> new ItemStack(ModItems.TESTITEM.get()))
                     .title(Component.translatable("creativetab.sccoolstuff.sccs_items"))
                     .displayItems((itemDisplayParameters, output) -> {
-                        output.accept(ModItems.TESTITEM);
                         output.accept(ModItems.DAYTONACARD);
                         output.accept(ModBlocks.CHARCOAL_BLOCK);
                         output.accept(ModBlocks.CHARCOAL_BRICK_BLOCK);
+                        output.accept(ModBlocks.CHARCOAL_BRICK_SLAB);
+                        output.accept(ModBlocks.CHARCOAL_BRICK_WALL);
                         output.accept(ModBlocks.CARVED_CHARCOAL_BRICK_BLOCK);
+                        output.accept(ModBlocks.CHARCOAL_PILLAR_BLOCK);
                         output.accept(ModBlocks.PAPER_BLOCK);
                         output.accept(ModBlocks.ORANGE_PAPER_BLOCK);
                         output.accept(ModBlocks.MAGENTA_PAPER_BLOCK);
@@ -40,6 +42,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.GREEN_PAPER_BLOCK);
                         output.accept(ModBlocks.RED_PAPER_BLOCK);
                         output.accept(ModBlocks.BLACK_PAPER_BLOCK);
+
 
 
 

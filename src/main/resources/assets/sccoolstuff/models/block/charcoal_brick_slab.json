@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "sccoolstuff:block/charcoal_brick_block",
+    "side": "sccoolstuff:block/charcoal_brick_block",
+    "top": "sccoolstuff:block/charcoal_brick_block"
+  }
+}

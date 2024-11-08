@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sccoolstuff:block/charcoal_brick_slab"
+    },
+    "type=double": {
+      "model": "sccoolstuff:block/charcoal_brick_block"
+    },
+    "type=top": {
+      "model": "sccoolstuff:block/charcoal_brick_slab_top"
+    }
+  }
+}

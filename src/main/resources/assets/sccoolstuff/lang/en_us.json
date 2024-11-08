@@ -4,7 +4,7 @@
   "item.sccoolstuff.testitem": "A Cool Item",
   "item.sccoolstuff.daytona_card": "Hi I'm Daytona Card",
   "block.sccoolstuff.charcoal_brick_block": "Charcoal Bricks",
-  "block.sccoolstuff.carved_charcoal_brick_block": "Carved Charcoal Bricks",
+  "block.sccoolstuff.carved_charcoal_brick_block": "Chiseled Charcoal Bricks",
   "creativetab.sccoolstuff.sccs_items": "SquidCat's Cool Stuff",
   "block.sccoolstuff.paper_block": "Paper Block",
   "block.sccoolstuff.light_gray_paper_block": "Light Gray Paper Block",
@@ -21,6 +21,9 @@
   "block.sccoolstuff.purple_paper_block": "Purple Paper Block",
   "block.sccoolstuff.magenta_paper_block": "Magenta Paper Block",
   "block.sccoolstuff.pink_paper_block": "Pink Paper Block",
-  "block.sccoolstuff.brown_paper_block": "Brown Paper Block"
+  "block.sccoolstuff.brown_paper_block": "Brown Paper Block",
+  "block.sccoolstuff.charcoal_brick_slab": "Charcoal Bricks Slab",
+  "block.sccoolstuff.charcoal_pillar_block": "Charcoal Pillar",
+  "block.sccoolstuff.charcoal_brick_wall": "Charcoal Bricks Wall"
 
 }
